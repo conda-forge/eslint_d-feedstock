@@ -1,5 +1,5 @@
 context:
-  version: 14.0.3
+  version: "14.3.0"
 
 package:
   name: eslint_d
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/eslint_d/-/eslint_d-${{ version }}.tgz
-  sha256: 90f2506865f76c8bc346d998ecef5f3f82f7d795300afd1d2213bc41a2138b90
+  sha256: f873d33ca7b7851704555a6453798163956a3f525a322d3caea8c16b294933c3
 
 build:
   number: 0
